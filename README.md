@@ -1,7 +1,7 @@
 # Keras Syntax - Predicting a Single Numerical Price Value
 
 This is a simple regression model built using Keras that predicts a single numerical price value using two features. 
-The goal of this Jupyter Notebook is to be used as a template or a reference to create future models. 
+The goal of this Jupyter Notebook is to be used as a template or a reference to create future models. I use this as a refrence for some of my projects.
  
 * Part 1: Preparing the Data
 * Part 2: Creating a Neural Network. Creating & Training the Model
